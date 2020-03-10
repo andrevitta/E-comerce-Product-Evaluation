@@ -17,8 +17,12 @@ Evaluate Garnier’s product   customers evaluation over e-commerce
 
 # Data Aquisition
 
+Data was colected from a major e-comerce plataform using web scraping technics and  python requests libary. I've narrow down to a specific brand of products so I could have a more reduced scope of products. Aquisition consist on acessing the main webpage using a specific query. Each product name and link was read and their specific page acessed. I was able to gather 255 product with over 5000 coments and evaluations.
+
 <img src="./image/Data_scrapping_flow.PNG" alt="Data flow" width="500"/>
 
 # Results
+
+To simplify analisis, I've picked the top 5 best product according to their evaluation to rpesent the final results.
 
 <img src="./image/results.PNG" alt="Data flow" width="500"/>
