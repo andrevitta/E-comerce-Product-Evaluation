@@ -23,6 +23,6 @@ Data was colected from a major e-comerce plataform using web scraping technics a
 
 # Results
 
-Below arer the top 5 best product according to their evaluation to represent the final results.
+Below are the top 5 product according to their evaluation to present the final results.
 
 <img src="./image/results.PNG" alt="Data flow" width="500"/>
