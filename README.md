@@ -17,4 +17,8 @@ We worked on building a pipeline to automate all process from data aquisition to
 
 # Data Aquisition
 
-![Flow](./image/Data_scrapping_flow.PNG)
+<img src="./image/Data_scrapping_flow.PNG" alt="Data flow" width="500"/>
+
+# Results
+
+<img src="./image/results.PNG" alt="Data flow" width="500"/>
