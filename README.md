@@ -8,7 +8,7 @@ The goal of this project is for us to practice what we have learned in the Inter
 
 We worked on building a pipeline to automate all process from data aquisition to the final visualization.
 
-# Evaluate Garnier’s product   customers evaluation over e-commerce
+Evaluate Garnier’s product   customers evaluation over e-commerce
 
 * Identify better evaluated products
 * Classify commentaries over good and bad
