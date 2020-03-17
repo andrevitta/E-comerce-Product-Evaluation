@@ -19,6 +19,11 @@ Data was collected from a major e-commerce platform using web scraping technique
 
 <img src="./image/Data_scrapping_flow.PNG" alt="Data flow" width="500"/>
 
+The website wacs mapped and scrapped for each product found and them their link was colected so it could be used to acess their rating and evaluation
+
+<img src="./image/articles_amazon.PNG" alt="Data flow" width="500"/>
+
+
 # Results
 
 Below are the top 5 product according to their evaluation to present the final results.
