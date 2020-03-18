@@ -19,19 +19,19 @@ Data was collected from a major e-commerce platform using web scraping technique
 
 <img src="./image/Data_scrapping_flow.PNG" alt="Data flow" width="500"/>
 
-The website wacs mapped and scrapped for each product found and them their link was collected and stored
+The website wacs mapped and scraped for each product found and them their link was collected and stored
 
 
-<img src="./image/articles_amazon.PNG" alt="Data flow" width="500"/>
+<img src="./image/articles_amazon.PNG" alt="Data flow" width="700"/>
 
 With the the link for each of the 255 products a loop was used to access all of them to retrieve the ratings for the specific product
 
-<img src="./image/rating.PNG" alt="Data flow" width="500"/>
+<img src="./image/rating.PNG" alt="Data flow" width="700"/>
 
 Finally all comments for each product were also retrieved and stored together with their info, overall 5000 comments were stored.
 
 
-<img src="./image/comments.PNG" alt="Data flow" width="500"/>
+<img src="./image/comments.PNG" alt="Data flow" width="700"/>
 
 # Results
 
